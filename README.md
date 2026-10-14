@@ -15,9 +15,8 @@
 All data remains strictly within your browser via `localStorage`, ensuring complete privacy, zero latency, and instant load times.
 
 ---
-ok
 
-
+okokokok
 ## ✨ Key Features
 
 ### 1. 📊 Holistic Daily Scoring & Streak Engine
